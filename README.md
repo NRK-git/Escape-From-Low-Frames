@@ -56,4 +56,4 @@
 10. Now select the  ***Escape From Low Frames.nip*** and ***Apply Changes***
 
 ## ❓Running Into Issues?
-#### If you are running into issues, leave a comment on the <a href="https://forge.sp-tarkov.com/mod/2634/escape-from-low-frames"><strong>SPT Forge</strong></a> or contact me on Discord ***@nrk_z***
+#### If you are running into issues, leave a comment on the <a href="https://forge.sp-tarkov.com/mod/2634/escape-from-low-frames#comments"><strong>SPT Forge</strong></a> or contact me on Discord ***@nrk_z***
