@@ -35,7 +35,7 @@
 ## ⚡What Does My Preset Try To Achieve?
 
 - 📈 Increases framerate
-- 📉 Tries to reduce 1% lows
+- 📉 Tries to stabilise 1% lows
 - 🧠 Tries to reduce the CPU bottlenecks
 - 📊 Tries to keep frames consistent
 - ⚙️ Utilizes Smooth Motion & DLSS 4.5
