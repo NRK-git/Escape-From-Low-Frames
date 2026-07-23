@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "nvidiaProfileInspector": {
-      "commandName": "Project",
-      "commandLineArgs": "-disableScan"
-    }
-  }
-}
