@@ -66,7 +66,7 @@
 2. Extract the ***Escape From Low Frames.zip*** file
 3. Open the ***Escape From Low Frames*** folder
 4. Open the ***NVPI-R.exe*** as Administrator 
-5. Click on Profile and search for ***E********************
+5. Click on Profile and search for ***Escape From Tarkov***
 6. Click on ***Export user defined profiles*** and then ***Export current profile including predefined settings***
 7. Save ***Escape From Tarkov.nip*** to your desired location
 8. Click on ***Import user defined profiles*** and then ***Import profile(s)***
