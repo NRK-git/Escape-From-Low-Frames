@@ -53,7 +53,7 @@
 
 ## 📀 What About DLSS 4.5?
 
-**Using DLSS 4.5 Is Mostly Recommended For Users Who Are Playing With Lower Resolution As The L & M Models Were Made For Lower Resolution Scenarios**
+**DLSS 4.5 (L/M Models) Is Recommended For Users Playing At A Higher Native Resolution Like 4K, While Having The Upscaling Ratio To Either Performance Or Ultra Performance, As The DLSS Models Were Optimized For Lower Internal Resolutions**
 - [DLSS 4.5 Installation](https://sp-mod.com/mod/2621/tarkov-dlss-45)
 
 ---
